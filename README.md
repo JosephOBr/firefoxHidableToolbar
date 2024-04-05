@@ -13,6 +13,5 @@ https://www.userchrome.org/how-create-userchrome-css.html
 2. follow the installation instructions of the readme of MrOtherGuy's userChrome.js manager:
 https://github.com/MrOtherGuy/fx-autoconfig
 
-3. Use the floatingNavbar.css and the floatingNavBar.uc.js files in the CSS and JS folders respectively
-
+3. replace your chrome folder with my one or merge them
     
